@@ -1,0 +1,16 @@
+Plant Disease Recognition System
+
+Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+    The dataset is recreated using offline augmentation from the original dataset.
+    
+    1. Train (70295 images)
+    2. Valid (17572 images)
+    3. Test (33 images)
+    4. 38 classes  
+
+    How It Works:
+
+        Upload Image – Submit a photo of the plant.
+        Analysis – The system processes the image to identify potential diseases.
+        Result – Instantly receive the disease name.
